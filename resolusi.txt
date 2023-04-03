@@ -1,0 +1,7 @@
+resolusi ane
+-konsisten improvisasi diri
+-konsisten belajar python
+-belajar matplotlib
+-belajar numpy
+-belajar pandas
+-belajar machine-learning
